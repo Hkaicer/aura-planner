@@ -1,0 +1,4 @@
+# Shell launchers must keep Unix line endings to run on macOS and Linux.
+*.sh text eol=lf
+*.command text eol=lf
+*.bat text eol=crlf
